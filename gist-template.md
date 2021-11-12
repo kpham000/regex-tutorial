@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Regex: Matching a Hex Value
 
 Regular expression also known as, "Regex", this is a sequence of characters that is used to search for a pattern in the code. 
 
